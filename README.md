@@ -16,7 +16,6 @@ Structuri folosite:
 Client:
 Contine datele legate de client, cum ar fi:
 - ip
-- ip
 - port
 -connected, ca sa retin daca e conectat sau nu
  1 = conectat, 0 = neconectat
