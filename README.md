@@ -7,10 +7,6 @@ Neagoe Mario-Alexandru - 324CC
 Am doua fisiere sursa, server si subscriber
 Continut arhiva: server.cpp + subscriber.cpp + Makefile
 
-
-Nu am implementat wildcard, in rest am implementat tot ce s-a cerut.
-
-
 Structuri folosite:
 
 Client:
